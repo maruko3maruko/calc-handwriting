@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">手書きで計算</string>
+    <string name="recognize">OK</string>
+    <string name="clear">消す</string>
+    <string name="writeHere"></string>
+    <string name="mathematical">mathematical</string>
+    <string name="chemical">chemical</string>
+</resources>
